@@ -21,6 +21,13 @@ Validator and Storage node docs from me
 - [0G Storage Node](https://github.com/Twelly-8-Validator/Twelly8guides/blob/main/storage0g.md)
 - [Lava Testnet Setup Guide](https://github.com/Twelly-8-Validator/Twelly8guides/blob/main/lava.md)
 
+# TWELLI 8 LINKS
+
+- **Twitter**: https://x.com/terrell_ja38750
+- **Discord**: https://discord.com/users/938769005978718268
+- **Medium**: https://medium.com/@gorlioll
+- **Notion**: https://chivalrous-jackrabbit-a8a.notion.site/Twelly-8-24fb6d81ae3f45eb8d2d4e7c57e1df49
+
 
 # TWELLY 8 ARTICLES
 
