@@ -21,3 +21,10 @@ Validator and Storage node docs from me
 - [0G Storage Node](https://github.com/Twelly-8-Validator/Twelly8guides/blob/main/storage0g.md)
 - [Lava Testnet Setup Guide](https://github.com/Twelly-8-Validator/Twelly8guides/blob/main/lava.md)
 
+
+# TWELLY 8 ARTICLES
+
+- [Exploring the Strengths of Lava Protocol: A Game-Changer in Blockchain Infrastructure](https://medium.com/@gorlioll/exploring-the-strengths-of-lava-protocol-a-game-changer-in-blockchain-infrastructure-e991c5c0b1ce)
+- [Side Protocol: Unlocking New Dimensions in Blockchain Technology 🚀](https://medium.com/@gorlioll/side-protocol-unlocking-new-dimensions-in-blockchain-technology-f39aac1dcfdd)
+- [AirChains - Pioneering the Future of Blockchain Interoperability 🛠️](https://medium.com/@gorlioll/airchains-pioneering-the-future-of-blockchain-interoperability-%EF%B8%8F-8ad7921a5507)
+- [Transforming Web3: How 0G Labs is Merging AI and Blockchain](https://medium.com/@gorlioll/0g-labs-pioneering-the-integration-of-ai-and-blockchain-technology-4a48f3582cf8)
