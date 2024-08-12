@@ -2,36 +2,21 @@
 
 ### Validator with experience in leading blockchains
 
+<ul>
+  <li>
+    <p><img src="https://github.com/user-attachments/assets/e2c5a8d4-fce8-4b13-ae66-51e1fbc306db" width=20> - lava@valoper1lrjyevtarmf6sm2km0436v0k8mft9kunyylpna</p>
+  </li>
+</ul>
+![lava_network-860x484](https://github.com/user-attachments/assets/e2c5a8d4-fce8-4b13-ae66-51e1fbc306db)
+![Artela](https://github.com/user-attachments/assets/dc8f120b-fd61-4d3c-9f60-c2c81b66f88a)
+![warden-p-logo](https://github.com/user-attachments/assets/723811a7-7559-4c77-8bfe-2873a780e88f)
 
-- **[Allora]()**
-  
-- **[Tableland]()**
 
-- **[Fuel]()**
-
-- **[Kwil]()**
-
-- **[Hyperlane](0xD7A02c27f72d16706befCb51324e4cE2eA0A36F7)**
-
-- **[Side](sidevaloper1ptzfpjekfk6exwv6nf0zgp29knmc420zqtmyrp)**
-
-- **[Initia]()**
-
-- **[Burnt]()**
-
-- **[Caldera]()**
-
-- **[CrossFi](mx1s2mlvjczlkccuxgh37dpcrxwqhssrwujenhg4d)**
-
-- **[Babylon](bbn1skysdtdk6kh0jam4e9pshj87c2093vdvd674am)**
-
-- **[Tea](https://github.com/gorlIoll/sarata)**
-
-  ![1920x1080](https://github.com/user-attachments/assets/a764a438-435a-4725-8600-11b9ca42a56e)
 
 # TWELLY 8 DOCS
 
 Validator and Storage node docs from me
 - [0G Validator Node](https://github.com/Twelly-8-Validator/Twelly8guides/blob/main/validator0g.md)
 - [0G Storage Node](https://github.com/Twelly-8-Validator/Twelly8guides/blob/main/storage0g.md)
+- [Lava Testnet Setup Guide](https://github.com/Twelly-8-Validator/Twelly8guides/blob/main/lava.md)
 
