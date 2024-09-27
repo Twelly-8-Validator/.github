@@ -48,34 +48,18 @@
 - [🔗 **0G Validator Node**](https://github.com/Twelly-8-Validator/Twelly8guides/blob/main/validator0g.md)  
 - [🔗 **0G Storage Node**](https://github.com/Twelly-8-Validator/Twelly8guides/blob/main/storage0g.md)  
 - [🔗 **Lava Testnet Setup Guide**](https://github.com/Twelly-8-Validator/Twelly8guides/blob/main/lava.md)  
+- [🔗 **Fairblock Testnet Setup Guide**](https://github.com/Twelly-8-Validator/Twelly8guides/blob/main/fairblock.md)
+- [🔗 **Ojo Testnet Setup Guide**](https://github.com/Twelly-8-Validator/Twelly8guides/blob/main/ojo.md)
 
 ---
 
 ### **Connect with Twelly 8**  
 🌐 **Social Media Links**:  
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <a href="https://x.com/terrell_ja38750" target="_blank" style="text-decoration: none;">
-        <div style="text-align: center; border: 1px solid #4A90E2; border-radius: 10px; padding: 10px; width: 150px;">
-            <h4 style="color: #4A90E2;">Twitter</h4>
-        </div>
-    </a>
-    <a href="https://discord.com/users/938769005978718268" target="_blank" style="text-decoration: none;">
-        <div style="text-align: center; border: 1px solid #4A90E2; border-radius: 10px; padding: 10px; width: 150px;">
-            <h4 style="color: #4A90E2;">Discord</h4>
-        </div>
-    </a>
-    <a href="https://medium.com/@gorlioll" target="_blank" style="text-decoration: none;">
-        <div style="text-align: center; border: 1px solid #4A90E2; border-radius: 10px; padding: 10px; width: 150px;">
-            <h4 style="color: #4A90E2;">Medium</h4>
-        </div>
-    </a>
-    <a href="https://chivalrous-jackrabbit-a8a.notion.site/Twelly-8-24fb6d81ae3f45eb8d2d4e7c57e1df49" target="_blank" style="text-decoration: none;">
-        <div style="text-align: center; border: 1px solid #4A90E2; border-radius: 10px; padding: 10px; width: 150px;">
-            <h4 style="color: #4A90E2;">Notion</h4>
-        </div>
-    </a>
-</div>
+
+- [🔗 **X/Twitter**](https://x.com/terrell_ja38750)  
+- [🔗 **Medium**](https://medium.com/@gorlioll)  
+- [🔗 **Notion**](https://chivalrous-jackrabbit-a8a.notion.site/Twelly-8-24fb6d81ae3f45eb8d2d4e7c57e1df49)  
 
 ---
 
