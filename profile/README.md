@@ -31,12 +31,12 @@
       <div style="text-align: center; border: 1px solid #4A90E2; border-radius: 10px; padding: 15px; width: 30%;">
         <img src="https://assets.nodes.guru/8833001c-bcb4-4dda-ba0c-44f4b2bc7190.svg" width=50>
         <p><strong>Ojo</strong></p>
-        <p>🛡️ fairyvaloper1uy5slhj2xf2sgssa5jkjf6v433e7wkkpfuw6jg</p>
+        <p>🛡️ ojovaloper14nmwwqkeuf25dfzt28fw9ueglqrs3yme6x345q </p>
     </div>
       <div style="text-align: center; border: 1px solid #4A90E2; border-radius: 10px; padding: 15px; width: 30%;">
         <img src="https://assets.nodes.guru/87ae9f63-8cf0-4163-99b8-caf7c1f2f784.svg" width=50>
         <p><strong>Fairblock</strong></p>
-        <p>🛡️ ojovaloper14nmwwqkeuf25dfzt28fw9ueglqrs3yme6x345q</p>
+        <p>🛡️ fairyvaloper1uy5slhj2xf2sgssa5jkjf6v433e7wkkpfuw6jg</p>
     </div>
 </div>
 
